@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workout-tracker-bd0f5",
+  "private_key_id": "a39cee359aa8b9f6eb908681169114d439d23118",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDADNmBb5t9qS4+\nRXcPo068zjPWrkqCOsmnZOdPvn0vPX4bNux1G7/jM4QPVu8iqX9iu6qP478EqaQ8\nOhDj9wN45n69ahz341+63ZdqPi4uzVPLssxgYqEl9tXX8wFFzdadwdN+pQdPIaL+\nPTTQ8G0W1dhOBPCTy0zqS/hkAwaFhQyg/k71Ey21SxiA3JjnU/qbJ/bQ2qFlrzM6\nZbujeheoOmmttkHPkH5Hcj7hZ1GIvbjbOZshcX05gwZrQ4/6f0i60BLr7kY+Qbay\nUkU9h0D/kY2vw9OhSvsmXpQ85IUPfQ+D6rjk/VPhNw+ilYJozwMtmScYoSxA8Msl\nOIHrcmUvAgMBAAECggEABdfePkvxBS/Ckm52oukrGh+EAEIpTjEPtaIiT5DSKj/K\nuHVBWIbRnc4RdI4GlJ1nnM9s7xfU1gV7U8HIhcccOe95Z7X0z64BWaQoWTkvGolw\nxT/ZbA1ULd2GwB1Kqp8Kqp4dGztWL5gsZ2PhWYIXL5yuCiGoWDbVTkOleRWGe0V1\njg+Z9ZgmfelyS2KyIfnf2yTaXE+atXiRFKuZ+pdvrOg4xlbaeucG9vSHQVjsW753\ni1ce3UScS1qOW8SqRhsaYrExyitBSNos99f+ZmDKYcOntt9PAnnucKzsfuxS6ENo\nsbylOn/NeBRl2P4PG389OL7db5d7Xw2zukIldOdMsQKBgQDmpnzDBxE9pFm0WlC8\ndnBMRBx4QuObAPAckPPk6xWg9qJZZKoa548ZwCeoOkbrhcNJ8deulpz34RHy1+jS\n0Sg5gXAbyqqvlte2Psp7VJkEjMCaxwW9pbdELt/zlmE6XdKln+0hLLFQ4VZu1B4H\nPgZjsHdJ8+A3tnzcgFYm/+oyTQKBgQDVKFHI4zWJm1mdC/jLJq6NFf2xPuJaOClS\nEuPC7JeG04A5jaci1EwhQcWN8Eh+D/ezPL9cs3egT5oyWK3tVddhrHY+FIxTHA6d\nVeDbUpEwDWMePFF8t+z0AAy6WNztJ3uO+aTiCU3QLJKUTZR7vNdsZLpcsyS3Gp62\nap0QUmZbawKBgQDHZtOhf/Cly/pJc3MtG2/GX3QFfD5teQgciixwkdRnDhIZGm/9\nRoduibM/OvKpF0FYIh6Gr2sQ2aG8wnBkIbKW1JJpVHLvzoa65doDeYW4az7wEHOk\nGyovZh7y5eU0onxD99j3vz2kYMtqkTNMq5C2io72fkIvqDKWJtVUbha4WQKBgD3X\nstK7yN6hqcA8pvQZxu68AJyaCAXw4VwkitwU1GmTl1IbXPBn86Z6dJyXqBCbBVyF\nNWfp0b07GxucSuney9xUswGT6Jp8O2k+bzxymhj86VLuYR30JtUr5oVyHrbXi6uR\nllrWJDNPmz9XusqjoUSbfM5EU1SkboOyLtt7bKL9AoGAfC2LylsBt5KDWKG15oUo\nFxBHKSBkTGnr5TF+Q+o5yvgQQVkguKuqUz4QF/jFmhaAW/b/bovJsg6SD7Tx8eHb\n3LD3GkZhPeHAdXRSysZrpxVtwjPjLCEfY90NjZNt+Z0xufahibRWiLEiobL0F7rY\n1qg7CXPfkebcSVcvFDMO4t8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-m8dog@workout-tracker-bd0f5.iam.gserviceaccount.com",
+  "client_id": "101829176134628506603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m8dog%40workout-tracker-bd0f5.iam.gserviceaccount.com"
+}
